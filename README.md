@@ -7,7 +7,7 @@ style-dictionary build
 
 You should see something like this output:
 ```
-Copying starter files....
+Copying starter files...
 
 Source style dictionary starter files created!
 

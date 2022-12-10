@@ -1,6 +1,7 @@
 # Articles and resources on this regard
 
 - [Avesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens): A list of useful resources on design tokens.
+- [Naming Design Tokens](https://uxdesign.cc/naming-design-tokens-9454818e): How to effectively name your design tokens in a systematic and future-proof way.
 - [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676): Terms, types, and taxonomy to describe visual style. - Nathan Curtis
 - [Reimagining a Token Taxonomy](https://medium.com/eightshapes-llc/reimagining-a-token-taxonomy-462d35b2b033): Notes from design token projects, from audits to implementation. - Nathan Curtis
 - [Style Dictionary](https://amzn.github.io/style-dictionary/): Style Dictionary is a build system that allows you to define styles once, in a way for any platform or language to consume.

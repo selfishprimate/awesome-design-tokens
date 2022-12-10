@@ -1,3 +1,9 @@
+# Articles and resources on this regard
+
+- [Avesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens): A list of useful resources on design tokens.
+- [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676): Terms, types, and taxonomy to describe visual style. - Nathan Curtis
+- [Style Dictionary](https://amzn.github.io/style-dictionary/): Style Dictionary is a build system that allows you to define styles once, in a way for any platform or language to consume.
+
 # Basic Style Dictionary
 
 This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:

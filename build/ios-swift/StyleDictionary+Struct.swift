@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 10 Dec 2022 13:12:57 GMT
+// Generated on Mon, 12 Dec 2022 08:00:31 GMT
 
 
 import UIKit
@@ -30,6 +30,15 @@ internal struct StyleDictionaryStruct {
     internal static let opacity700 = 0.76
     internal static let opacity800 = 0.85
     internal static let opacity900 = 0.95
+    internal static let opacityFull = 1
+    internal static let opacityNone = 0
+    internal static let radiiLarge = 16
+    internal static let radiiMedium = 8
+    internal static let radiiNone = 0
+    internal static let radiiSmall = 4
+    internal static let radiiXlarge = 32
+    internal static let radiiXsmall = 2
+    internal static let radiiXxlarge = 64
     internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     internal static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */

@@ -1,3 +1,33 @@
 {
-    
+  "radii": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius",
+      "description": "This may be used to reset the current value."
+    },
+    "xsmall": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "xlarge": {
+      "value": "32",
+      "type": "borderRadius"
+    },
+    "xxlarge": {
+      "value": "64",
+      "type": "borderRadius"
+    }
+  }
 }

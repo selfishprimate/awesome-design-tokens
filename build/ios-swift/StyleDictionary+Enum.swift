@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 10 Dec 2022 13:12:57 GMT
+// Generated on Mon, 12 Dec 2022 08:00:31 GMT
 
 
 import UIKit
@@ -30,6 +30,15 @@ public enum StyleDictionaryEnum {
     public static let opacity700 = 0.76
     public static let opacity800 = 0.85
     public static let opacity900 = 0.95
+    public static let opacityFull = 1
+    public static let opacityNone = 0
+    public static let radiiLarge = 16
+    public static let radiiMedium = 8
+    public static let radiiNone = 0
+    public static let radiiSmall = 4
+    public static let radiiXlarge = 32
+    public static let radiiXsmall = 2
+    public static let radiiXxlarge = 64
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
